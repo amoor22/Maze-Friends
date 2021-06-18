@@ -8,3 +8,10 @@ This is the repository for my game Maze Friends which was in under 48 hours as p
 [**👉The game's official website👈**](https://amoor22.itch.io/maze-friendz)
 
 <img src="https://i.ytimg.com/vi/XpzBfx45wUE/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAkNs6wOGMyGC05FxRa23YuTTJhLQ" width="300">
+
+***
+## Screenshots
+![scrn_shot1](https://img.itch.zone/aW1hZ2UvMTA4NzA1My82MjI5ODUyLnBuZw==/original/T5TsXB.png)
+![scrn_shot2](https://img.itch.zone/aW1hZ2UvMTA4NzA1My82MjI5ODgzLnBuZw==/original/s31hYo.png)
+![scrn_shot3](https://img.itch.zone/aW1hZ2UvMTA4NzA1My82MjI5OTQwLnBuZw==/original/%2BtLKin.png)
+![scrn_shot4](https://img.itch.zone/aW1hZ2UvMTA4NzA1My82MjI5OTYwLnBuZw==/original/MkMiOz.png)
